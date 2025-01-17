@@ -119,25 +119,6 @@ smart-hub-college-management/
 |       |-- App.js
 |-- README.md
 ```
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push the branch.
-   ```bash
-   git commit -m "Add your message here"
-   git push origin feature-name
-   ```
-4. Open a Pull Request.
-
 ---
 
 ## Acknowledgments
