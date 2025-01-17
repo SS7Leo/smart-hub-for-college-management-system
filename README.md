@@ -31,9 +31,9 @@ Smart Hub is an ERP-based web application designed using the MERN stack (MongoDB
 ## Output
 ![Image](https://github.com/user-attachments/assets/c970517e-407a-4aea-a26d-f40b2aae51dd)
 ![Image](https://github.com/user-attachments/assets/0dd03ee9-c104-4275-a700-6aa91b0214e6)
-![Image](https://github.com/user-attachments/assets/8d6dc725-1dae-4801-984d-8db6dcfda06a)
 ![Image](https://github.com/user-attachments/assets/a384f3d5-495b-4d98-9a67-c1e8cde548e2)
 ![Image](https://github.com/user-attachments/assets/39d08496-c041-4c0d-ba61-ac8e03c777ef)
+![Image](https://github.com/user-attachments/assets/8d6dc725-1dae-4801-984d-8db6dcfda06a)
 
 
 ## Tech Stack
