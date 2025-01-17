@@ -6,8 +6,6 @@ Smart Hub is an ERP-based web application designed using the MERN stack (MongoDB
 
 ## Features
 
-![Image](https://github.com/user-attachments/assets/2c68f392-09d6-4410-80fd-ab6cfb6d8bec)
-
 ### For Admin:
 
 - **Dashboard**: Overview of college activities and statistics.
@@ -40,7 +38,7 @@ Smart Hub is an ERP-based web application designed using the MERN stack (MongoDB
 
 ## Flow Diagram
 
-
+![Image](https://github.com/user-attachments/assets/2c68f392-09d6-4410-80fd-ab6cfb6d8bec)
 
 ## Tech Stack
 
